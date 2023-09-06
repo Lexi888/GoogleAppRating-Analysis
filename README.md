@@ -6,4 +6,4 @@
 * 4. Using matplotlib and seaborn library to create visualizations.
 
 ## Notice: 
-This is only the first part of the project, so I mainly focused on the EDA. In the second part of the project, I will explore what factors affect the rating of apps. 
+This is only the first part of the project, so I mainly focused on the EDA. In the second part of the project, I will explore how rating of apps affect the times of downloas. 
